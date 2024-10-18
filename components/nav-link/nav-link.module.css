@@ -1,0 +1,18 @@
+.link {
+  text-decoration: none;
+  color: #ddd6cb;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.link:hover,
+.link:active {
+  color: #f96f5d;
+  text-shadow: #00000013 1px 0px 10px;
+}
+
+.active {
+  color: #f96f5d;
+  text-shadow: #00000013 1px 0px 10px;
+}

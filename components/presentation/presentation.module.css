@@ -1,0 +1,27 @@
+.content {
+  display: flex;
+  flex-direction: column;
+  text-align: justify;
+  align-items: end;
+  font-size: 1.4rem;
+  padding-right: 10rem;
+}
+
+.content p {
+  width: 35rem;
+}
+
+.icon {
+  text-decoration: none;
+  fill: #ddd6cb;
+  font-weight: bold;
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+}
+
+.icon:hover {
+  fill: #f96f5d;
+  -shadow: #00000013 1px 0px 10px;
+  -webkit-filter: drop-shadow(#00000013 1px 0px 10px);
+  filter: drop-shadow(#00000013 1px 0px 10px);
+}

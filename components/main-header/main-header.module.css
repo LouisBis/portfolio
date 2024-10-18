@@ -1,0 +1,16 @@
+.header {
+  width: 100vw;
+  display: flex;
+  justify-content: end;
+}
+
+.nav {
+  font-weight: bold;
+  font-family: Helvetica, sans-serif;
+  position: fixed;
+  padding-right: 2rem;
+}
+
+.list {
+  list-style: none;
+}

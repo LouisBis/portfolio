@@ -1,0 +1,12 @@
+body {
+  background: linear-gradient(305deg, rgb(253, 255, 243) 0%, #fff 100%);
+  font-family: Helvetica, sans-serif;
+}
+
+main {
+  padding: 8em;
+  display: flex;
+  margin-top: 3rem;
+  justify-content: space-between;
+  align-items: center;
+}
